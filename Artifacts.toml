@@ -1,0 +1,363 @@
+[[HOHQMesh]]
+arch = "aarch64"
+git-tree-sha1 = "92a60581fbf8646a34ac11fd16c412594bf39ce7"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[HOHQMesh.download]]
+    sha256 = "4a91be68f9499810dad2ea100596f2c9a2d69eae673ef214dd6f17f751a44543"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "aarch64"
+git-tree-sha1 = "d1a3ab59a17704d81a225536d1c7404ca9a15762"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "71ec553a7d300077b90ca5f60a496566dddbfd7887164bec19d7d0a8a6685b15"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "aarch64"
+git-tree-sha1 = "88b1f335264aad232718887a03406e31ab5797df"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "4ef9480d40575bda3e672ce2e5dd77d0ec39203975b3574926a0f3e414d0a1cb"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "aarch64"
+git-tree-sha1 = "9a6a22b370a989c42ae6f4938c02ad68e4a42166"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "0ed7819658b3d69aa3e8a77071880f70e8c46f22cdc4d0bf49ecde6bf9efe6d2"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7d23c3736f022e679f654f67e66308adb1ddd8cb"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "d213db2b016eb318a9a7d5ce74072b0644bfb279cc02af5fe76ccc5bccd22437"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f2ea722c798f194b766bfe1b4fc6db2304988e85"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "156f6dbec917856305e80bb355728e462a4d0b164252f744cfae74332f609849"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a12d68ae8b63e7b0c82db592b9ff47e8e6836202"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "18b2b756f8a4c9ceeaf8ad6142793e8cfb86b1fc253d0b2150d02f191b9746f4"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0236252e507a5f6afaba3d33a584d46b77245a55"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "7bffdfd4d7f5535b761ce1c6fefb0f26e4edba860fb512821e46b5bfe4b9cac2"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2aaeb62d3459f6840956c7b0646d55c4b5b7ea9a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "f259cfbaa04b01c27cca281b1d2a478c607b929bae31debccfe4092257fd8445"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "71c3a8dfa1c64e113a83ff71049075c67ea51098"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "45b08b0f86872010952fa35fbac08080d6c2f9090244ca84e226a564182b62f4"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "dfac13761ea0281cdf0a4370fca8e22cb27f3b68"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "7261930228e7a187971024819097cf4ce2f11cbc3aff5916ac0e1b8bfdcf7c7b"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "cf7b2efcfb27103f63d009c4b83f910a5bef7f69"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "7d31fb58c7524ddd56857c982956a9ad860f07730a807906307eabf463a0afb0"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "38c73ad82f862589a6f3869a1fde18b6bc37d77f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "10867e3c31193027628540f47a7b06b664837080c41b3d214756cb4a5c1e429b"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "451f86e915d1f1f44ef8c3bf1d857c7e358c9935"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "a11f7e9ce7ec05d0613b70f1168f1a0a4bda85515d1e3f5bb23cd896eefa2c2f"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-linux-musl-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "1db26043d16352ef8b84a34b0b53e6d7fb707e70"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "ced95d21b5dfa267f0da9dbb305ae832c8874d09d928444d03eec338ad924f95"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-linux-musl-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "94bf475cc5df2eea82b73b4a1d422aac647a091c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "afe1e4d320c67672a1832d708c10fa3dd9439c01f7c5b1ed5361d21071154aaa"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-linux-musl-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "b42ed0ff7e5027f03421b040cc5af689d53adc46"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[HOHQMesh.download]]
+    sha256 = "dc2e6c24685ad69fb77ac5632964d8e487220bb367e3411169fb336fb18f7591"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "ab2346bf35a110c6ed2f0af141bdc8d25d64e00d"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[HOHQMesh.download]]
+    sha256 = "e39165e3a5d40f3ddce988810535b466d720515735ce2610e34e648b6bd2074c"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "i686"
+git-tree-sha1 = "76ec1d9dca407550581c3af5854604ecbc1e4020"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[HOHQMesh.download]]
+    sha256 = "bbf5c47637073c654cd9f96e808e8335083335e125e4fdba54e7521ff1ee9413"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "powerpc64le"
+git-tree-sha1 = "68aa729614472b735bad4c5b753d3e2cd1546baf"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "bb563a8a951c606582a1c39e3954c2dd1279a61d7ebf46e49885be7cc2683b68"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "powerpc64le"
+git-tree-sha1 = "b7674fd89a44cf0a74b83e1e3ba2466b0cceb25f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "5d2f5fd6d448320d345d0cd852bb77b4b90caaa10f2e511350a33d9cf096c311"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "powerpc64le"
+git-tree-sha1 = "196c51eea641dc421a40d8dfec130f81d74cee8b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "0ae21c42deff6c8ce8f6f471fa251f291f0ed9b8d1180c2c1e4505f2280af54b"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "1ebae3291f90a9ddf23f0b3f33b8b8cae74322b6"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[HOHQMesh.download]]
+    sha256 = "85db392fcb1cb85852ad9ab9ba93b57dced7d4233da3efe0a13a1fcc018656d6"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "f53f6e91f2b4debbabf31f2202ced854fdf0f825"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[HOHQMesh.download]]
+    sha256 = "ccdb1d3242cc5cda3dc2da5e5c58c271e4fd1fb567fedaff2806fceb7d4b7fcb"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "3b4bf87542a181461bafa5146e80729ea577283b"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[HOHQMesh.download]]
+    sha256 = "0abe0166fd70e3a4bff3f387fda2cb4177f040d0f55d06c85625067adf1b6e40"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "dfd5feae9ee2c53921059b55879ab51a058cac48"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "2a5b8f43d8a7406a4e0f38601e1e3ec09672c28b7398d3cac076490d2e706f43"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "d5db8f24da863fac0d18e719521636e37ea6eb9b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "c69781ccbe44cdddedafb923ee366d3a401d25b4c3fb0183fe9e2ed60e38aaef"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "2ed1e3e1996601bcda9a996b35e6f9f43b8523f5"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "b1ecdc67dfed7049a8cd363eef465cb7e0ad740e24894911234c4a990e6a5da5"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "936ecda6e3da0d4969f6dfb456781eb9877d7af4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "f1da8899f22fa494aba12fe7dcf5a8e8eb541e317d0f9c3f001ee01f866c2f03"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "bd7c859bda6ec7726597c7a4d3f3888c1e9ee85f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "3f9c5d1ad83f4d92de1d610113cfbdc7742cc22c4d4f9acd179a1f66260251c3"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "d9e41ff91a8dac78d0294dd99c247420068bac93"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HOHQMesh.download]]
+    sha256 = "828ed1492cad4bfc4a2cfe94ddde2d52ffc2b07103ec4ead449b7336e17cafe1"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "1f6a041fec5e7e365a55e1aefafb222996f59f51"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[HOHQMesh.download]]
+    sha256 = "e22b15d159a6b800415c9df7fdf55abe0318ea7af39c2f0ffd2b5decf6490151"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "fa762ef7470e1a03843cfd5f8f6d6dc2ebac7bfa"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[HOHQMesh.download]]
+    sha256 = "eb7f50e50762a0f4f52da200377f86b3deb503b10cf13dd9f0df58e35a034bfa"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "83062668d1a1eccd818de5f47c775eb3c43cd093"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[HOHQMesh.download]]
+    sha256 = "d19870952fc46ee2c032618bc7cce08936df1cb55821a26e752ef6292b2f546e"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "70f2844a828c6eab264aad279b08cd9ba6ccb174"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[HOHQMesh.download]]
+    sha256 = "6506ecb39f6633c724d31781421c58fda4b551f1a72fe5df407ccdbba71a078f"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "16fe6572778e20aca323557706c92647652bd1ab"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[HOHQMesh.download]]
+    sha256 = "7e7f884b7edf47e591a37c1febe5d5347dc7822cabdb4a8fef69d0ce2578271f"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[HOHQMesh]]
+arch = "x86_64"
+git-tree-sha1 = "510f2ece1274480d0d5df9795bf88e35f4967686"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[HOHQMesh.download]]
+    sha256 = "5e868ecd230cf5d45486e424d47d7d569559ee8e693886dfb23c2a0ecabfa194"
+    url = "https://github.com/JuliaBinaryWrappers/HOHQMesh_jll.jl/releases/download/HOHQMesh-v1.0.0+0/HOHQMesh.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
